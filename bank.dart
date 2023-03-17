@@ -68,9 +68,7 @@ class Bank {
       }
     }
     return highestBalanceAccount;
-  }
-
-  void printInfo() {}
+  }
 }
 
 class Account {
